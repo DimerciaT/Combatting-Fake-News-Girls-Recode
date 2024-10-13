@@ -1,0 +1,40 @@
+
+.b1{
+    background-color: #FFB0B0;
+}
+h1{
+    font-size: 65px;
+    font-family: "Londrina Sketch", sans-serif;
+    color: blue;
+}
+
+h2{
+    font-family: "Montserrat", sans-serif;
+}
+.wifn{
+    font-size: 20px;
+    font-family: "Stint Ultra Expanded", serif;
+    width: 1000px;
+}
+.firstimg{
+    width: 500px;
+    height: 250px;
+}
+div{
+    background-color: #B7E0FF;
+}
+
+.links{
+    font-family: "Spicy Rice", serif;
+    font-size: 25px;
+}
+.content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.align-right {
+    max-width: 300px; 
+    margin-left: auto; 
+}
